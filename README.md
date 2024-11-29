@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Fareezf
-- 👀 I’m interested in somting
+- 👀 I’m interested in
+  - Online Games
+  - Volleyball
 - 🌱 I’m currently learning making a website
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me: nuh uh
+- 📫 How to reach me:
+  - Telegram: @Farz_K4
+  - Email: fareezfitri8@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: somting
-
-<!---
-Fareezf/Fareezf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: hitch hikers thumb
