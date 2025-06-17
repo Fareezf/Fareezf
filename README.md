@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Fareezf
 - 👀 I’m interested in
   - Online Games
-  - Volleyball
-- 🌱 I’m currently learning making a website
+- 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me:
   - Telegram: @Farz_K4
-  - Email: fareezfitri8@gmail.com
+  - Email: fareezfitriahmad@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: hitch hikers thumb
